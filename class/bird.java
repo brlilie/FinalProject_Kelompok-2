@@ -2,7 +2,7 @@ package projectuap;
 
 public class Bird extends GameObject {
     private static final double GRAVITY = 1.0;
-    private static final double JUMP_FORCE = -10.0;
+    private static final double JUMP_FORCE = -8.0;
     private double velocityY;
     
     public Bird(double x, double y) {

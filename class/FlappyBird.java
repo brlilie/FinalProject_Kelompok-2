@@ -14,7 +14,7 @@ import java.util.List;
 public class FlappyBird {
     private static final int SCREEN_WIDTH = 360;
     private static final int SCREEN_HEIGHT = 640;
-    private static final int PIPE_SPACING = 120;
+    private static final int PIPE_SPACING = 240;
     
     private StackPane root;
     private Canvas canvas;
